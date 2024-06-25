@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Breaking Bad",
+    "Favorite": true
+  },
+  {
+    "Name": "Game of Thrones",
+    "Favorite": false
+  },
+  {
+    "Name": "The Office",
+    "Favorite": true
+  },
+  {
+    "Name": "Stranger Things",
+    "Favorite": false
+  }
+]

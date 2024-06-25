@@ -1,0 +1,17 @@
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\bin\Debug\net8.0\Tvshow.Application.deps.json
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\bin\Debug\net8.0\Tvshow.Application.runtimeconfig.json
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\bin\Debug\net8.0\Tvshow.Application.dll
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\bin\Debug\net8.0\Tvshow.Application.pdb
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\bin\Debug\net8.0\Tvshow.Domain.dll
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\bin\Debug\net8.0\Tvshow.Domain.pdb
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.csproj.AssemblyReference.cache
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.AssemblyInfoInputs.cache
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.AssemblyInfo.cs
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.csproj.CoreCompileInputs.cache
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.csproj.CopyComplete
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.dll
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\refint\Tvshow.Application.dll
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.pdb
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\Tvshow.Application.genruntimeconfig.cache
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Application\obj\Debug\net8.0\ref\Tvshow.Application.dll

@@ -1,0 +1,12 @@
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\bin\Debug\net8.0\Tvshow.Domain.deps.json
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\bin\Debug\net8.0\Tvshow.Domain.dll
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\bin\Debug\net8.0\Tvshow.Domain.pdb
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\Tvshow.Domain.csproj.AssemblyReference.cache
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\Tvshow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\Tvshow.Domain.AssemblyInfoInputs.cache
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\Tvshow.Domain.AssemblyInfo.cs
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\Tvshow.Domain.csproj.CoreCompileInputs.cache
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\Tvshow.Domain.dll
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\refint\Tvshow.Domain.dll
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\Tvshow.Domain.pdb
+S:\ProyectosDevs\TvShowApi\backend\src\Core\Tvshow.Domain\obj\Debug\net8.0\ref\Tvshow.Domain.dll
